@@ -4,8 +4,8 @@ set -e   # exit immediately on any error
 # ──────────────────────────────────────────────────────────────────
 # 0. Configuration — EDIT these two lines before submitting
 # ──────────────────────────────────────────────────────────────────
-REPO_URL="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git"   # ← replace
-REPO_DIR="YOUR_REPO_NAME"                                         # ← folder cloned to
+REPO_URL="https://github.com/GarvCosmo/GNR638-Project.git"   # ← replace
+REPO_DIR="GNR638-Project"                                        
 
 # ──────────────────────────────────────────────────────────────────
 # 1. Clone repository (internet is available during setup)
